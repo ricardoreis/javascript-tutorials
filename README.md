@@ -1,7 +1,7 @@
 # javascript-tutorials
 
-#1. Começando do início
-##O que é JavaScript?
+# 1. Começando do início
+## O que é JavaScript?
 Javascript é uma linguagem de programação inicialmente projetada para interagir com elementos de páginas web. Nos…
 ##Instalando um editor de código JavaScript
 Editores de Código para JavaScript
