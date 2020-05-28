@@ -1,3 +1,4 @@
+//splice = remove elementos, pode substituir elementos e retorna o array removido
 /* Sybtax:
 *  Array.splice(position, 0, new_element_1, new_element_2, ...)
 */

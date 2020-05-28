@@ -1,3 +1,11 @@
+//slice = retorna uma fatia de um array
+let elements =  [0,1,2,3,4,5, 'element', true];
+
+let method = elements.slice(1,6)
+
+console.log(method);                //[ 1, 2, 3, 4, 5 ]
+console.log(elements);              //[ 0, 1, 2, 3, 4, 5, 'element', true ]
+
 
 let title = "Bitcoin";
 
